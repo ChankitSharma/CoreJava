@@ -1,4 +1,7 @@
 import java.math.BigDecimal;
+/**
+ * This is store the large Precision value.
+ */
 public class BigDecimalExample {
 
 	public static void main(String[] args) {

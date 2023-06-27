@@ -1,6 +1,6 @@
 /**
-This is Static Variable. 
-*/
+ *This is Static Variable. 
+ */
 public class StaticDemo {
 
 	static int value ;

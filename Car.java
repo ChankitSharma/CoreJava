@@ -1,3 +1,6 @@
+/**
+ *This class is extending Vehicle class.
+ */
 public class Car extends Vehicle {
 
 	void start() {

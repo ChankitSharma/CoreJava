@@ -1,6 +1,6 @@
 /**
-This is the String Methods class for presenting String Methods.
-*/
+ *This is the String Methods class for presenting String Methods.
+ */
 public class StringMethods {
 
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
-Finding the current month name using switch case. 
-*/
+ *Finding the current month name using switch case. 
+ */
 public class MonthName {
 
 	public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Practical_18_Throws;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 /*

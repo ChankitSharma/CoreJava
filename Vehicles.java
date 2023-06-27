@@ -1,6 +1,6 @@
 /**
-* Vehicles is a Base Class
-*/
+ * Vehicles is a Base Class
+ */
 public class Vehicles {
 
 	void start() {

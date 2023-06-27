@@ -1,6 +1,6 @@
 /**
-This is Implemented class of Animal
-*/
+ *This is Implemented class of Animal
+ */
 public class Cat1 implements Animal1{
 
 	public void eat() {

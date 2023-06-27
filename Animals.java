@@ -1,6 +1,6 @@
 /**
-* Base class
-*/
+ * Base class
+ */
 public class Animals {
 
 	void eat() {

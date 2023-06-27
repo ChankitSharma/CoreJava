@@ -1,6 +1,6 @@
 /**
- This program demonstrates the usage of 'continue' and 'break' statements in a loop.
-*/
+ *This program demonstrates the usage of 'continue' and 'break' statements in a loop.
+ */
 public class BreakStatement {
 
 	public static void main(String[] args) {

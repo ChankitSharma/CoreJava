@@ -1,6 +1,6 @@
 /**
-  Validating age group by using if else statement
-*/
+ * Validating age group by using if else statement
+ */
 public class AgeValidation {
 
 	public static void main(String[] args) {

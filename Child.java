@@ -1,3 +1,6 @@
+/**
+ *In this we are performing over riding 
+ */
 public class Child extends OverRiding {
 
 	void show() {

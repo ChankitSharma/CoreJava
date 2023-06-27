@@ -1,4 +1,3 @@
-package Practical_15_Hybrid_Inheritance;
 /**
  * Performing multilevel and multiple inheritance.
  */

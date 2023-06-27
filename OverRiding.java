@@ -1,5 +1,5 @@
 /**
-In this class we have method implementation for achiving Polymorphism
+ *In this class we have method implementation for achiving Polymorphism
  */
 public class OverRiding {
 

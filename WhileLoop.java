@@ -1,6 +1,6 @@
 public class WhileLoop {
 /**
-  In this class we are using while loop 
+ * In this class we are using while loop 
  */
 	public static void main(String[] args) {
 		
