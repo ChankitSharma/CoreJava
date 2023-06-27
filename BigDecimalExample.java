@@ -4,8 +4,10 @@ import java.math.BigDecimal;
  */
 public class BigDecimalExample {
 
+	/*This is the main method*/
 	public static void main(String[] args) {
 
+		/*Objects of Big Decimal class and comapaing large Precision*/
 		BigDecimal number1 = new BigDecimal("23.3450432054062836302960935845098");
 		BigDecimal number2 = new BigDecimal("20.3450432054062836302960935845098");
 
