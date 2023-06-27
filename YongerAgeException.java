@@ -3,6 +3,7 @@
  */
 public class YongerAgeException extends RuntimeException{
 
+	/*This is custom made exception for validating age*/
 	YongerAgeException(String msg) {
 		super(msg);
 	}
