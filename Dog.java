@@ -3,6 +3,7 @@
  */
 public class Dog extends Animal {
 
+	/*This is the Dog class method*/
 	void bark() {
 		System.out.println("Barking...");
 	}
