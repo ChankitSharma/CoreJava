@@ -1,9 +1,8 @@
-package Practical_21;
-
 import java.util.HashMap;
 import java.util.Map;
-
-/*Implementation of Map Interface*/
+/**
+ * Implementation of Map Interface
+ * */
 public class MapInterface {
 
 	public static void main(String[] args) {
