@@ -6,7 +6,9 @@ import java.util.Scanner;
 public class Voting {
 
 	public static void main(String[] args) {
-		/* Scanner class for taking input from user */
+		/*
+		 *  Scanner class for taking input from user
+		 * */
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter your age : ");
 

@@ -5,17 +5,17 @@ public class Constructor {
 
 	int multiplication;
 	
-	/*
-	 Creating default constructor and Print the message.
-	*/
+	/**
+	 * Creating default constructor and Print the message.
+	 */
 	Constructor()
 	{
 		System.out.println("This is a Default Constructor");
 	}
 	
-	/*
-	 Creating Parameterized constructor and performing multiplication between two numbers. 
-	*/
+	/**
+	 * Creating Parameterized constructor and performing multiplication between two numbers. 
+	 */
 	Constructor(int number1, int number2)
 	{
 		multiplication = number1 * number2;

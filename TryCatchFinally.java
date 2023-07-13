@@ -8,6 +8,9 @@ public class TryCatchFinally {
 		try 
 		{
 			int number1 = 9, number2 = 0, result;
+			/*
+			 * In this line Arithmetic Exception Occur
+			 * */
 			result = number1/number2;
 			System.out.println(result);
 		} catch(ArithmeticException  e) {

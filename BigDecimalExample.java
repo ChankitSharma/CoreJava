@@ -1,17 +1,20 @@
 import java.math.BigDecimal;
+
 /**
  * This is store the large Precision value.
  */
 public class BigDecimalExample {
 
-	/*This is the main method*/
+	/**
+	 * This is the main method
+	 */
 	public static void main(String[] args) {
 
-		/*Objects of Big Decimal class and comapaing large Precision*/
+		/**
+		 * Objects of Big Decimal class and comapaing large Precision
+		 */
 		BigDecimal number1 = new BigDecimal("23.3450432054062836302960935845098");
 		BigDecimal number2 = new BigDecimal("20.3450432054062836302960935845098");
-
-		// System.out.println(number1.subtract(number2));
 
 		if (number1.compareTo(number2) == 0) {
 			System.out.println(number1 + " and " + number2 + " are equal.");

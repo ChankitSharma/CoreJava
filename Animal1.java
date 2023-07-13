@@ -3,8 +3,12 @@
  */
 public interface Animal1 {
 
-	/*eat is the Abstract method*/
+	/**
+	 * eat is the Abstract method
+	 */
 	void eat();
-	/*sleep is the Abstract method*/
+	/**
+	 * sleep is the Abstract method
+	 */
 	void sleep();
 }

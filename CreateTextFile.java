@@ -7,10 +7,15 @@ import java.io.IOException;
 public class CreateTextFile {
 
 	public static void main(String[] args) {
-		
+		/**
+		 * Creating a file object and configure path and file name which we want to create.
+		 */
 		File file = new File("E:\\myTextFile.txt");
 		
 		try {
+			/**
+			 * It will give  IOException for that reson we are puting code inside try catch block
+			 */
 			if(file.createNewFile()) {
 				FileWriter fileWriter = new FileWriter(file);
 				fileWriter.write("Name: Mike Tyson" +"\n" +" Age: 30"+"\n"+"Post: Software Engineer");

@@ -3,11 +3,15 @@
  */
 public class Animals {
 
-	/*This is the eat method*/
+	/**
+	 * This is the eat method
+	 */
 	void eat() {
 		System.out.println("Eating...");
 	}
-	/*This is the run method*/
+	/**
+	 * This is the run method
+	 */
 	void run() {
 		System.out.println("Running...");
 	}
