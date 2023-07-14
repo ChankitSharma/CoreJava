@@ -1,9 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Iterator;
+
 /**
  * Adding String in List using iterator
- * */
+ */
 public class AddString {
 
 	public static void main(String[] args) {
@@ -20,5 +21,4 @@ public class AddString {
 		}
 	}
 	
-
 }
