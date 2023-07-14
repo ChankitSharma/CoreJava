@@ -1,9 +1,10 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+
 /**
  * The CreateTextFile class demonstrates how to create a text file and add personal details to it.
- * */
+ */
 public class CreateTextFile {
 
 	public static void main(String[] args) {
