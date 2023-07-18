@@ -1,6 +1,6 @@
 /**
  * This is the constructor class for performing Defalult and Parameterized constructor
- * */
+ */
 public class Constructor {
 
 	int multiplication;
