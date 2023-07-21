@@ -1,7 +1,9 @@
 /**
- *This is Implemented class of Bike
+ * This is Implemented class of Bike
+ *
+ * @author Chankit
  */
-public class Honda implements Bike{
+public class Honda implements Bike {
 
 	/**
 	 * Implementing start() method from the Bike class
