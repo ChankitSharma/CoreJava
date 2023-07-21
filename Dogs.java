@@ -1,5 +1,7 @@
 /**
  * Dogs class is extending Animal class.
+ * 
+ * @author Chankit
  */
 public class Dogs extends Animals {
 
@@ -9,22 +11,12 @@ public class Dogs extends Animals {
 	void bark() {
 		System.out.println("Barking...");
 	}
-	/**
-	 * Main method of that class
-	 */
+
 	public static void main(String[] args) {
 		Dogs dog = new Dogs();
-		/**
-		 * Calling eat method from Animal class
-		 */
 		dog.eat();
-		/**
-		 * Calling bark method from Dogs class
-		 */
 		dog.bark();
-		/**
-		 * Calling eat method from Animal class
-		 */
 		dog.run();
 	}
+
 }

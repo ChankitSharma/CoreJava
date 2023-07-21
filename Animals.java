@@ -1,5 +1,7 @@
 /**
- * Animal class is the Base class of single inheritance
+ * Program to demonstrate single inheritance. Animals is Parent class of that Programme.
+ * 
+ * @author Chankit
  */
 public class Animals {
 
@@ -9,11 +11,12 @@ public class Animals {
 	void eat() {
 		System.out.println("Eating...");
 	}
+
 	/**
 	 * This is the run method
 	 */
 	void run() {
 		System.out.println("Running...");
 	}
-	
+
 }
