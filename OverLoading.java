@@ -1,21 +1,26 @@
 /**
- * This program is created for performing compile time Polymorphism.
+ * In this program we are performing compile time Polymorphism.
+ * 
+ * @author Chankit
  */
 public class OverLoading {
-	
-	void add(int a , int b) {
-		int c = a + b;
-		System.out.println("Addition of Integer Number : " + c);
+
+	void add(int numberOne, int numberTwo) {
+		int number = numberOne + numberTwo;
+		System.out.println("Addition of Integer Number : " + number);
 	}
-	void add(int a , Double b) {
-		int x = a;
-		double y = b;
-		double z = x + y;
-		System.out.println("Addition of Interger and Decimal Number : " + z);
+
+	void add(int integerNumber, Double decimalNumber) {
+		int numberX = integerNumber;
+		double numberY = decimalNumber;
+		double sum = numberX + numberY;
+		System.out.println("Addition of Interger and Decimal Number : " + sum);
 	}
+
 	public static void main(String[] args) {
-		OverLoading a1 = new OverLoading();
-		a1.add(10 , 20);
-		a1.add(30 , 22.55);
+		OverLoading overloading = new OverLoading();
+		overloading.add(10, 20);
+		overloading.add(30, 22.55);
 	}
+
 }

@@ -1,11 +1,14 @@
 /**
- *In this class we have method implementation for achiving Polymorphism
+ * In this class, we have method implementation for achieving Polymorphism.
+ *
+ * @author Chankit
  */
 public class OverRiding {
 
-	void show () {
+	@Overriding
+	void show() {
 		String name = "Mike";
 		String City = "Banglore";
 	}
-	
+
 }
