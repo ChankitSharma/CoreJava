@@ -1,7 +1,9 @@
 /**
- * Performing multilevel and multiple inheritance.
+ * This is Hybrid Inheritance. Performing multilevel and multiple inheritance.
+ * 
+ * @author Chankit
  */
-public class Result extends Exam implements Project{
+public class Result extends Exam implements Project {
 
 	@Override
 	public void show() {
@@ -10,7 +12,7 @@ public class Result extends Exam implements Project{
 		System.out.println("Student Total Number (Thoery + Practical) : " + studentMark);
 		System.out.println("Student Total Marks : " + totalMark);
 	}
-	
+
 	public static void main(String[] args) {
 		Result result = new Result();
 		result.show();
