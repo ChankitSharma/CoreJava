@@ -1,7 +1,9 @@
 /**
  * Subclass of Hierarchical_Inheritance
+ * 
+ * @author Chankit
  */
-public class Cat extends Animal{
+public class Cat extends Animal {
 
 	/**
 	 * This is the Cat class method
@@ -9,14 +11,15 @@ public class Cat extends Animal{
 	void meow() {
 		System.out.println("Meowing...");
 	}
+
 	/**
 	 * Main method of that class
 	 */
 	public static void main(String[] args) {
-		Cat cat=new Cat();  
-		cat.meow();  
-		cat.eat(); 
+		Cat cat = new Cat();
+		cat.meow();
+		cat.eat();
 		cat.run();
 	}
-	
+
 }
