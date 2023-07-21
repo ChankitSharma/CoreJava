@@ -1,5 +1,7 @@
 /**
- * This is the main method for the accessing main files in our system. 
+ *This program is demonstrate Throws keyword
+ *
+ * @author Chankit
  */
 import java.io.FileNotFoundException;
 
@@ -14,4 +16,5 @@ public class MainMethod {
 		}
 		System.out.println("Rest of the code...");
 	}
+
 }
