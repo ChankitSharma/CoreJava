@@ -2,7 +2,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ComparatorExample{
+/**
+ * This is the main class to demonstrate comparator interface.
+ * 
+ * @author Chankit
+ */
+public class ComparatorExample {
 
 	public static void main(String[] args) {
 		List<Person> personList = new ArrayList<>();
