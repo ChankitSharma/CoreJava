@@ -1,7 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
-
+/**
+ * This is the main class to demonstrate comparable interface.
+ * 
+ * @author Chankit
+ */
 public class ComparableExample {
 
 	public static void main(String[] args) {
