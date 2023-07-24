@@ -43,7 +43,7 @@ public class WrapperClass {
 				System.out.println("Number is Equal");
 			}
 		}
-		// closing scanner class
+		// Closing scanner class
 		scanner.close();
 	}
 
