@@ -1,3 +1,8 @@
+/**
+ * Program to demonstrate String and Integer compassion
+ * 
+ * @author Chankit
+ */
 public class Demo {
 
 	public static void main(String[] args) {
