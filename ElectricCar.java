@@ -12,9 +12,6 @@ public class ElectricCar extends Car {
 		System.out.println("The Electric Car is charged.");
 	}
 
-	/**
-	 * Main method is to demonstrating multilevel inheritance
-	 */
 	public static void main(String[] args) {
 		ElectricCar electricCar = new ElectricCar();
 		electricCar.start();
