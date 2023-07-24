@@ -3,7 +3,7 @@
  * 
  * @author Chankit
  */
-public class Demo {
+public class StringIntegerCompare {
 
 	public static void main(String[] args) {
 		String nameOne = "chankit";
