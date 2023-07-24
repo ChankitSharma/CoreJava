@@ -1,11 +1,11 @@
-/**
-* Implementation of ListInterface
-* 
-* @author Chankit
-*/
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Implementation of ListInterface
+ * 
+ * @author Chankit
+ */
 public class ListInterface {
 
 	public static void main(String[] args) {
