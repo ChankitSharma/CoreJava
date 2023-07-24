@@ -24,9 +24,9 @@ public class OverLoading {
 	}
 
 	public static void main(String[] args) {
-		OverLoading overloading = new OverLoading();
-		overloading.add(10, 20);
-		overloading.add(30, 22.55);
+		OverLoading overLoading = new OverLoading();
+		overLoading.add(10, 20);
+		overLoading.add(30, 22.55);
 	}
 
 }
