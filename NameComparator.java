@@ -1,5 +1,10 @@
 import java.util.Comparator;
 
+/**
+ * Program to demonstrate comparator interface.
+ * 
+ * @author Chankit
+ */
 public class NameComparator implements Comparator<Person> {
 
 	@Override
