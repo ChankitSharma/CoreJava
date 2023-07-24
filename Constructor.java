@@ -23,7 +23,6 @@ public class Constructor {
 	}
 
 	public static void main(String[] args) {
-
 		new Constructor();
 		new Constructor(10, 20);
 	}
