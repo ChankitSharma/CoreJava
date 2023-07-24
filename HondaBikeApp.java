@@ -8,7 +8,7 @@ public class HondaBikeApp {
 	public static void main(String[] args) {
 		Honda honda = new Honda();
 		honda.start();
-		honda.headlightsOn();
+		honda.headLightsOn();
 	}
 
 }

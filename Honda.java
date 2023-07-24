@@ -13,10 +13,10 @@ public class Honda implements Bike {
 	}
 
 	/**
-	 * Implementing headlightsOn() method from the Bike class
+	 * Implementing headLightsOn() method from the Bike class
 	 */
-	public void headlightsOn() {
-		System.out.println("Bike headlights On...");
+	public void headLightsOn() {
+		System.out.println("Bike headLights On...");
 	}
 
 }
